@@ -1,0 +1,2 @@
+Builder design pattern is used when there are too many variables to set thrugh constructor.
+we can use a builder abstract class and many types of builders can extend it.
