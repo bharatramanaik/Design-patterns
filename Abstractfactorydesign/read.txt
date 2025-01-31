@@ -1,0 +1,1 @@
+Abstract Factory design is usefull when there is requirement of family of objects.
