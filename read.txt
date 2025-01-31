@@ -1,0 +1,11 @@
+SOLID principles
+
+S - single responsibility - every class should have single reason to change.(every clas should contain single 			functionality) 
+
+O - Open for extension closed for modification - class cannot be modified but can be extended(ex loose coupling)
+
+L - liskov  - subclass can extend the capability of parent not narrow the capability (top parent should contain only 		the general functions for its child) 
+
+I - interface segmented - interface should be such that its client should not implement unnecessary 	function(interface should be breakdown into small functional interfaces)
+
+D - dependency inversion - classes should depend on interfaces not on concrete classes.(ex loose coupling)
