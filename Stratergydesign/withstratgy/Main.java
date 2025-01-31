@@ -1,4 +1,4 @@
-package starttrgydesign.withstratgy;
+package Stratergydesign.withstratgy;
 
 public class Main {
     public static void main(String[] args) {

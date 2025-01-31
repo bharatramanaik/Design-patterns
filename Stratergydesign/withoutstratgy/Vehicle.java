@@ -1,4 +1,4 @@
-package starttrgydesign.withoutstratgy;
+package Stratergydesign.withoutstratgy;
 
 public class Vehicle {
     public void drive(){

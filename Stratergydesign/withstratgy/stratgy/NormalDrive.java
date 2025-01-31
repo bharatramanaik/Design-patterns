@@ -1,4 +1,4 @@
-package starttrgydesign.withstratgy.stratgy;
+package Stratergydesign.withstratgy.stratgy;
 
 public class NormalDrive implements DriveStrtergy{
 

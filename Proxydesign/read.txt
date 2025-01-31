@@ -1,0 +1,2 @@
+Proxy design pattern is used when there is requirement of
+ access restriction, caching, preprocessing and postprocessing of requests.

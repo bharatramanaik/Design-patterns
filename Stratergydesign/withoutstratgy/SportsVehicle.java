@@ -1,6 +1,6 @@
-package starttrgydesign.withoutstratgy;
+package Stratergydesign.withoutstratgy;
 
-public class OffroadVehicle extends Vehicle{
+public class SportsVehicle extends Vehicle {
 
     @Override
     public void drive(){

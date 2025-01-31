@@ -1,6 +1,6 @@
-package starttrgydesign.withstratgy;
+package Stratergydesign.withstratgy;
 
-import starttrgydesign.withstratgy.stratgy.DriveStrtergy;
+import Stratergydesign.withstratgy.stratgy.DriveStrtergy;
 
 public class Vehicle {
     DriveStrtergy driveStrtergy;

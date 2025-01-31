@@ -1,4 +1,4 @@
-package starttrgydesign.withstratgy.stratgy;
+package Stratergydesign.withstratgy.stratgy;
 
 public class SpecialDrive implements DriveStrtergy {
 

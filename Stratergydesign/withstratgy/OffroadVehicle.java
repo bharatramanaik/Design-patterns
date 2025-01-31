@@ -1,7 +1,7 @@
-package starttrgydesign.withstratgy;
+package Stratergydesign.withstratgy;
 
 
-import starttrgydesign.withstratgy.stratgy.SpecialDrive;
+import Stratergydesign.withstratgy.stratgy.SpecialDrive;
 
 public class OffroadVehicle extends Vehicle{
 

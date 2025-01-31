@@ -1,4 +1,4 @@
-package starttrgydesign.withstratgy.stratgy;
+package Stratergydesign.withstratgy.stratgy;
 
 public interface DriveStrtergy {
     void drive();
