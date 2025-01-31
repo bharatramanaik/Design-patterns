@@ -1,10 +1,8 @@
 package Abstractfactorydesign;
 
-import Abstractfactorydesign.AllVehicles.BMW;
 import Abstractfactorydesign.AllVehicles.Vehicle;
 import Abstractfactorydesign.Factory1.VehicleTypeFactory;
-import Abstractfactorydesign.Factory2.LuxuryVehicle;
-import Abstractfactorydesign.Factory2.OrdinaryVehicle;
+
 import Abstractfactorydesign.Factory2.VehicleFactory;
 
 public class Showroom {
