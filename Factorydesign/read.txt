@@ -1,0 +1,1 @@
+factory design pattern is used when the object needs to be created on basis of some condition.
