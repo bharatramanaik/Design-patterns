@@ -1,3 +1,3 @@
 Adpater design pattern is used when the
  client wants to comminucate with existing interface(Adaptee) but they are incompatible,
- then the adpter interface is will act as bridge between the client and existing interface
+ then the adapter interface is will act as bridge between the client and existing interface

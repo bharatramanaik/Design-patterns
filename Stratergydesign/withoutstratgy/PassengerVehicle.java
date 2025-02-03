@@ -1,8 +1,8 @@
 package Stratergydesign.withoutstratgy;
 
-public class PassengerVehicle extends Vehicle{
+public class PassengerVehicle extends Vehicle {
     @Override
-    public void drive(){
+    public void drive() {
         System.out.println("normal drive");
     }
 }

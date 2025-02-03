@@ -6,6 +6,6 @@ public class Main {
         System.out.println(dbConnection.hashCode());
         System.out.println(dbConnection.hashCode());
         System.out.println(dbConnection.hashCode());
-        
+
     }
 }

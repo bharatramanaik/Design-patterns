@@ -1,2 +1,3 @@
-stratgy design pattern is usefull when there is code duplicacy. 
+stratgy design pattern is usefull when there is code duplicacy i.e., 
+when many child classes override the functions for same purpose it makes code duplicacy.
 The parent class uses a interface to solve this issue

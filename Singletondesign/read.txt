@@ -1,0 +1,2 @@
+Singleton design pattern is used when the object
+ need to be created once and used for many purposes.
