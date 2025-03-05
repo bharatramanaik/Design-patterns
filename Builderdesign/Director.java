@@ -19,6 +19,7 @@ public class Director {
         return studentBuilder.setRollno(1)
                     .setAge(20).setName("abc")
                     .setFathername("mbs").setMothername("lkb")
+                    .setSUbjects()
                     .build();
         
     }
@@ -27,6 +28,7 @@ public class Director {
         return studentBuilder.setRollno(3)
                     .setAge(17).setName("mnb")
                     .setFathername("sdf").setMothername("bvc")
+                    .setSubjects()
                     .build();
         
     }
