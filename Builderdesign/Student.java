@@ -20,7 +20,7 @@ public class Student {
     }
 
     public String toString(){
-        return this.rollno+" "+this.age+" "+this.name+" ";
+        return this.rollno+" "+this.age+" "+this.name+" "+this.fathername+" "+this.mothername+" "+this.subjects;
     }
 
 
